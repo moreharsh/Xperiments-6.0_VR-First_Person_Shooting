@@ -39,3 +39,4 @@ This project aims to make a first-person shooting VR game. The game enables user
 
 <h2> Best Prototype Award @Xperiments 6.0: </h2>
 <img src="Banner/Xperiments6.0.jpeg" alt="Certificate"/>
+<img src="Banner/Prize.jpeg" alt="Prize"/>
