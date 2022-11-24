@@ -36,3 +36,6 @@ This project aims to make a first-person shooting VR game. The game enables user
 
 <p> Special Thanks to all publishers, for providing such great assets for free.</p>
 
+
+<h2> Best Prototype Award @Xperiments 6.0: </h2>
+<img src="Banner/Xperiments6.0.jpeg" alt="Certificate"/>
