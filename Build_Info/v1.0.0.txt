@@ -1,0 +1,11 @@
+Map setup: Basic
+Camera setup: Basic
+XR rig: not implemented
+XR interaction: not implemented
+Connection with oculus: successful
+
+Static view only
+
+Testing: Done
+
+Uploading: Completed
